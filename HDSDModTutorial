@@ -3,12 +3,14 @@
 **"_" là dấu cách nhé 
 **X là giá trị muốn thay đổi. VD : 1,2,3,4...
 
-**LƯU Ý : 
-           - Cái nào đang auto mà không dừng lại được có thể thử giữ Q 1 lúc vì mình cài Q để dừng 
-             lại vào khá nhiều chức năng :v
-           - Nếu bật mãi 1 chức năng không được có thể thử xem chức năng đó có liên kết với qltk ko
-             hoặc tắt liên kết qltk là ok
+**Trick :
+- Ấn vào dấu <<< ở thông báo boss để bay đến map boss =))
+- Ấn vào tên nhân vật khi hiển thị để bay vào chỗ nhân vật
+- Nếu muốn dừng khẩn cấp 1 chức năng nào đó mà ko chat được hãy giữ nút Q
+- Tele không cần mặc yardrat chỉ cần có trong hành trang 
+- Tìm kiếm bang hội kể cả khi đã có bang và tele đến thành viên trong đó
 
+**Hướng Dẫn Sử Dụng
 - telexm : bật chat tiếng việt
 - speed_X : thay đổi tốc độ game
 - tdc_X : thay đổi tốc độ chạy
@@ -147,7 +149,7 @@ không cho bật nhé =))
 
 - ngochs_X : setup số hồng ngọc được sử dụng để hồi sinh
 - ahs : auto hồi sinh với số ngọc được chỉ định là ngochs
-VD : ngochs = 5 sẽ chỉ hồi sinh lại 5 lần
+**VD : ngochs = 5 sẽ chỉ hồi sinh lại 5 lần
 
 - u_X : khinh công
 - d_X : độn thổ
