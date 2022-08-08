@@ -7,7 +7,7 @@ X là giá trị muốn thay đổi. VD : 1,2,3,4...
 - Pickmob(Tàn Sát) và Xmap của Mod được edit lại từ mã nguồn mở của Lã Minh Phúc anh em có thể tìm 
 trên Github hoặc kênh youtube Pk9r327 của chính ổng :v
 - Mình share mod này với mục đích chính là cho vui, ban đầu thì mình chỉ thẩm du 1 mình thôi nhưng
-sau khi thử share 1 vài lần được ae khen này nọ đcm vui vcl nên mình làm cho nó xịn hơn để share tiếp =))) 
+sau khi thử share 1 vài lần được ae khen này nọ đcm vui vcl nên mình làm cho nó xịn hơn để share tiếp =)) 
 - Ai chơi được thì chơi còn không chơi được thì thôi nhé đừng mất acc mất đồ xong đổ tại mình mệt lắm. 
 - Anh em hãy đọc kĩ HDSD để biết mod có những cái gì và tránh hỏi nhiều đcm nhiều khi mình cay ae vãi lon luôn ấy.
 - Thế nhé anh em chơi game vui vẻ !!
@@ -33,8 +33,8 @@ sau khi thử share 1 vài lần được ae khen này nọ đcm vui vcl nên m�
 
 - add : add/xóa quái hoặc item đang trỏ vào/khỏi danh sách tàn sát
 - addd : add/xóa loại quái hoặc item đang trỏ vào/khỏi danh sách
-- anhat : Nhặt all 
-- anhatts : auto nhặt tàn sát
+- anhat : tự động nhặt vật phẩm
+- cnn : cài đặt chỉ nhặt ngọc
 - itm : lọc vật phẩm chỉ nhặt vật phẩm của mình
 - slnX : cài đặt giới hạn số lần nhặt (mặc định 7)
 - sln : xem số lần nhặt giới hạn đang đặt
@@ -204,6 +204,9 @@ sẽ tự động tắt game (mở 3 lần bằng vàng và 1 lần bằng ngọ
 - dk_X : set khu mặc định khi dò boss là X
 - amd : auto đi mua đậu khi hết sạch
 - mbv_X : nhập nhanh mã bảo vệ X
+- nrd_X_Y : auto vào khu nrsd 
+**VD : map 1 sao khu 17 chat : nrd 1 17
+- adra : chỉ dành cho xd nhé - auto vào boss dra bom và auto nhận tđlt siêu mượt cứt =))
 - adoidt : auto đổi đệ tử (set up hành tinh kiểu xd nm td khi set up)
 **VD: Muốn đệ hành tinh xayda chỉ số hp > 2000, mp > 1000, sd > 30 sẽ phải setup : 2000 1000 30 xd
 **
