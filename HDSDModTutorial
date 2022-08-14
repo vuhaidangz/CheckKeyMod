@@ -213,6 +213,7 @@ sẽ tự động tắt game (mở 3 lần bằng vàng và 1 lần bằng ngọ
 - adoidt : auto đổi đệ tử (set up hành tinh kiểu xd nm td khi set up)
 **VD: Muốn đệ hành tinh xayda chỉ số hp > 2000, mp > 1000, sd > 30 sẽ phải setup : 2000 1000 30 xd
 **
+- nhapnro : auto nhập nro ném ngọc rồng vào bà hạt mít để nó tự nhập, giữ Q để dừng
 - akiksp : auto giết super đến khi ra super sẽ thông báo bằng âm thanh ăn đậu hay đéo gì đấy không nhớ
 - akiksp1m : auto kik broly đến 1m hp sẽ giết
 - ansp : pst super còn 1 sẽ trói lại
