@@ -25,14 +25,14 @@ sau khi thử share 1 vài lần được ae khen này nọ đcm vui vcl nên m�
 - telexm : bật chat tiếng việt
 - speed_X : thay đổi tốc độ game
 - tdc_X : thay đổi tốc độ chạy
-
+**
 - anquai : ẩn quái
 - annguoi : ẩn người
 - anitem : ẩn item
-
+**
 - smpet_X : setup sức mạnh đệ tử 
 - aout : tắt game khi đệ đạt sức mạnh yêu cầu (smpet)
-
+**
 - add : add/xóa quái hoặc item đang trỏ vào/khỏi danh sách tàn sát
 - addd : add/xóa loại quái hoặc item đang trỏ vào/khỏi danh sách
 - anhat : tự động nhặt vật phẩm
@@ -53,36 +53,36 @@ sau khi thử share 1 vài lần được ae khen này nọ đcm vui vcl nên m�
 - ts : tàn sát   
 - nsq : né siêu quái
 - tlq : tele quái
-
+**
 - kmap : khóa map
 - kx_X : auto vào khu X 
 - k_X : đổi tới khu X
 - kk : khóa đổi khu 
-
+**
 - showhp : list nhân vật trong map
 - go_X ( X là nhân vật trong map ) : nhảy đến chỗ nhân vật trong map (bật showhp để xem số thứ tự nhân vật)
 
 - atc : bật autochat 
-
+**
 - abf : buff đậu theo chỉ số sư phụ 
 - bhp_X : setup hp của sư phụ để buff đậu
 - bki_X : setup ki sư phụ
 - abfdt : buff đậu theo chỉ số đệ tử
 - bhpdt_X : setup hp của đệ tử để buff đậu
 - bki_X : setup ki đệ tử
-
+**
 - attnl : auto tái tạo năng lượng khi mất hp hoặc ki và tự chuyển về chiêu đấm
 - akok : up đệ hạn chế đánh kok 
-
+**
 - ak : tự động đánh
 - autopem : tự đánh khi đệ sủa
-
+**
 - acaptcha : âm báo captcha
 - ahoisinh : auto hồi sinh bằng ngọc 
-
+**
 - alogin : bật auto login khi bị out
 - akhu : về lại khu cũ khi login 
-
+**
 - cpu : đóng băng game đưa cpu về 0 khi tab hiện tại không phải là game
 - antk : ẩn tài khoản
 - npc_X : mở menu npc
@@ -92,42 +92,42 @@ sau khi thử share 1 vài lần được ae khen này nọ đcm vui vcl nên m�
 - autoco : tự đổi cờ để không bị cắn trộm khi treo 
 - abdkd_X : auto vào bdkb (X là cấp độ bdkb) 
 - adoanhtrai : auto vào doanh trại 
-
+**
 - abt : auto bông tai (Trạng thái của đệ sau khi tách sẽ là trạng thái ae bấm vào trong bảng chức năng của game)
 **VD : chọn đệ là về nhà thì khi auto bông tai sẽ cho đệ về nhà
 - bt_X : delay auto bông tai với thời gian X (giây)
-
+**
 - getitem (trỏ vào item trong map) : lấy id item
 - sale_X1_X2 : bán item có id X1 với giá X2
 - banitem : bật auto bán item (nhớ setup sale_X1_X2 trước) 
 - buy_X1_x2 : mua item có id X1 với giá X2
 - muaitem : bật auto mua item  
-
+**
 - gmt_X : giữ mục tiêu nhân vật X trong map ( có thể bật hiển thị hp nhân vật để xem số thứ tự )
 - gmt : bỏ mục tiêu đang giữ
-
+**
 - xoamap : xóa địa hình
 - xbg : xóa background 
 - wall : thay wallpaper 
 **Có thể thay wall khác bằng cách lưu ảnh mình muốn vào file Wallpaper. Nhớ đổi tên ảnh thành 
 wallpaper và phải là định dạng PNG nhé.
 - gdl : Xóa đồ họa,tiết kiệm CPU,RAM giảm lag game(treo máy nên bật);
-
+**
 - akigui : auto kí gửi (yêu cầu: kí gửi trước 1 lần để lấy thông tin rồi mới chat lệnh)
 - anhatdt : Nhặt đồ đệ tử đánh rơi 
 - delay_X : delay tốc độ nhặt all và nhặt ngọc (X là miligiay) mặc định 1000
 - cnn : chỉ nhặt ngọc
-
+**
 - vang_X : fake vàng
 - ngoc_X : fake ngọc
 - id_X : fake id (X này gõ chữ cũng được)
 - sm_X : fake sức mạnh
 - tn_X : fake tiềm năng
-
+**
 - csb : Sử dụng capsule thường xmap
 - csdb : Sử dụng capsule đặc biệt xmap
 - goback : bật goback 
-
+**
 - autotl + trỏ vào nhân vật chỉ định : auto dịch chuyển tức thời nhân vật đang trỏ vào đến khi nó ăn ẩn danh thì dừng =))
 - atl : thêm nhân vật đang trỏ vào danh sách tele
 - atl_X ((X là id nhân vật trong khu (bật hiển thị hp nhân vật để xem id)) : thêm nvat có id X vào danh sách tele
@@ -137,7 +137,7 @@ wallpaper và phải là định dạng PNG nhé.
 - ltl : xem ds tele
 - tlm : tự tele bản thân
 - ttl_X : auto tele tới nvat có id X trong ds tele (giữ Q 1-2 giây để hủy)
-
+**
 - admt : auto đổi mục tiêu
 - bossm : boss trong khu
 - pkm : những thằng đấm nhau được trong khu
@@ -145,32 +145,32 @@ wallpaper và phải là định dạng PNG nhé.
 - locboss : lọc thông báo boss (chỉ những boss có tên chứa từ nhập trong qltk mới hiện lên thông báo
 tên boss cắt nhau bởi dấu , )
 - line : chỉ boss
-
+**
 - loadskill : tự xếp skill 
 - matketnoi : làm game mất kết nối (dùng khi lag mất skill hoặc ngứa tay thích mất kết nối)
 - nhaynhot : tự động nhảy lên để gọi đệ khi vào game
-
+**
 - ths_X : đổi quãng thời gian dùng hồi sinh
 - autohs : auto dùng hồi sinh vào bản thân auto không xịt (mặc định 45 giây dùng 1 lần) không phải namec 
 không cho bật nhé =))
 - autohsdt : sử dụng hồi sinh chỉ khi đệ chết hoặc hết ki
-
+**
 - minimap : bật mini map
 - hpboss_X : setup hp ks boss
 - ksb : bật ks boss bằng đấm thường
 - ksbs5 : bật ks boss bằng skill5 (qckk hoặc laze hoặc nổ tùy hành tinh) 
 - tugd : tự động đồng ý và giao dịch có thể dùng khi đang treo 
-
+**
 - ngochs_X : setup số hồng ngọc được sử dụng để hồi sinh
 - ahs : auto hồi sinh với số ngọc được chỉ định là ngochs
 **VD : ngochs = 5 sẽ chỉ hồi sinh lại 5 lần
-
+**
 - u_X : khinh công
 - d_X : độn thổ
 - l_X : dịch trái
 - r_X : dịch phải
 - kvt : khóa vị trí
-
+**
 - xht : hiệu ứng hợp thể
 - chb : chỉ hiện boss
 - xtb : xóa tàu bay
@@ -178,29 +178,29 @@ không cho bật nhé =))
 - phaup : auto ghim nhân vật (tự tele + nhảy đến chỗ nhân vật cần phá up)
 - checklag: checklag trắng skill khi lag tự mất kết nối
 - vdh : vượt địa hình 
-
+**
 - acctl : lấy id acc đang sử dụng và nhập vào tele trong qltk để tele
 - idtl : lấy id acc đang trỏ và nhập vào...........................
-
+**
 - lkqltk : liên kết với quản lí tài khoản để sử dụng chức năng
 - dapdo : auto đập đồ bật lên rồi vào pha lê hóa chọn đồ sau đó bấm vào đồ chọn số sao cần đập là xong
 **Auto bán thỏi vàng khi hết vàng nên cân nhắc trước khi dùng. Giữ Q để reset đồ và add lại đồ
-
+**
 - goirong_X : gọi rồng X sao
 **Lưu ý : đây là ngọc rồng thường
-
+**
 - cskb : mở cskb nhanh
 - acskb : auto mở khi full x98 cskb
 - vutdo : auto vứt đồ (đồ phải cách nhau bởi dấu ",")
 - ttnv : trạng thái nhân vật đang trỏ (bị trói, bị thôi miên hay gì gì đấy + soi thời gian)
-
+**
 **Vào xem nội tại để chọn nội tại và chỉ số cần mở trước khi mở
 - mont : auto mở nội tại khi ra nội tại yêu cầu và chỉ số lớn hơn hoặc bằng chỉ số set up trước 
 sẽ tự động tắt game (mở 3 lần bằng vàng và 1 lần bằng ngọc liên tục) (tự động bán thỏi vàng khi gần hết vàng)
-
+**
 - thuongde : auto quay vòng quay đặc biệt trên thần điện 
 - nrd : auto nhặt (nên dùng khi thời gian nhặt ngọc còn thấp để tránh lag)
-
+**
 - doall : dò khu boss từ 1 đến hết hoặc đến khi tìm được boss
 - do_(tên boss nào đấy ví dụ broly hoặc xên) : set boss cần dò 
 - clrz : set khu mặc định khi dò boss về 0
@@ -213,6 +213,10 @@ sẽ tự động tắt game (mở 3 lần bằng vàng và 1 lần bằng ngọ
 - adoidt : auto đổi đệ tử (set up hành tinh kiểu xd nm td khi set up)
 **VD: Muốn đệ hành tinh xayda chỉ số hp > 2000, mp > 1000, sd > 30 sẽ phải setup : 2000 1000 30 xd
 **
+- akiksp : auto giết super đến khi ra super sẽ thông báo bằng âm thanh ăn đậu hay đéo gì đấy không nhớ
+- akiksp1m : auto kik broly đến 1m hp sẽ giết
+- ansp : pst super còn 1 sẽ trói lại
+** Lưu ý : Nhân vật tự chạy để hạn chế ăn đấm vào mồm, nhớ là phải mặc set pst nhé =))
 **Phím tắt : 
 M : mở menu một số chức năng chính
 F : đổi khu nhanh 
