@@ -12,7 +12,7 @@ sau khi thử share 1 vài lần được ae khen này nọ đcm vui vcl nên m�
 - Anh em hãy đọc kĩ HDSD để biết mod có những cái gì và tránh hỏi nhiều đcm nhiều khi mình cay ae vãi lon luôn ấy.
 - Thế nhé anh em chơi game vui vẻ !!
 **
-**Trick :
+**Trick
 - Trước khi đổi server khác hãy xóa dữ liệu để tránh bị xung đột và lỗi
 - Chat loadskill để gán được skill như bình thường
 - Ấn vào dấu <<< ở thông báo boss để bay đến map boss =))
@@ -21,6 +21,11 @@ sau khi thử share 1 vài lần được ae khen này nọ đcm vui vcl nên m�
 - Tele không cần mặc yardrat chỉ cần có trong hành trang 
 - Tìm kiếm bang hội kể cả khi đã có bang và tele đến thành viên trong đó
 - Vào thư mục Data và copy file Account nếu muốn bê đống acc từ bản cũ sang mới sau khi update
+**
+**Cách Update Phiên Bản Mới
+- Mở Update.exe lên ấn Update vì tải lại game từ đầu nên có thể sẽ lâu vcl. Sau đó sẽ có 1 thư mục mới
+tên Updated được tạo ra, trong đó sẽ có pass giải nén để giải nén file zip vừa tải.
+- Nếu không muốn nhập lại tài khoản từ đầu có thể vào thư mục Data ở bản cũ copy file Account sang bản mới
 **
 **Hướng Dẫn Sử Dụng
 - telexm : bật chat tiếng việt
@@ -197,7 +202,7 @@ không cho bật nhé =))
 **
 **Vào xem nội tại để chọn nội tại và chỉ số cần mở trước khi mở
 - mont : auto mở nội tại khi ra nội tại yêu cầu và chỉ số lớn hơn hoặc bằng chỉ số set up trước 
-sẽ tự động tắt game (mở 3 lần bằng vàng và 1 lần bằng ngọc liên tục) (tự động bán thỏi vàng khi gần hết vàng)
+(mở 3 lần bằng vàng và 1 lần bằng ngọc liên tục) (tự động bán thỏi vàng khi gần hết vàng)
 **
 - thuongde : auto quay vòng quay đặc biệt trên thần điện 
 - nrd : auto nhặt (nên dùng khi thời gian nhặt ngọc còn thấp để tránh lag)
