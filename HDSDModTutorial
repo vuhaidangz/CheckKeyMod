@@ -147,6 +147,7 @@ wallpaper và phải là định dạng PNG nhé.
 - admt : auto đổi mục tiêu
 - bossm : boss trong khu
 - pkm : những thằng đấm nhau được trong khu
+- ttnv : trạng thái nhân vật đang trỏ (bị trói, bị thôi miên hay gì gì đấy + soi thời gian)
 - sb : thông báo boss
 - locboss : lọc thông báo boss (chỉ những boss có tên chứa từ nhập trong qltk mới hiện lên thông báo
 tên boss cắt nhau bởi dấu , )
@@ -198,7 +199,6 @@ không cho bật nhé =))
 - cskb : mở cskb nhanh
 - acskb : auto mở khi full x98 cskb
 - vutdo : auto vứt đồ (đồ phải cách nhau bởi dấu ",")
-- ttnv : trạng thái nhân vật đang trỏ (bị trói, bị thôi miên hay gì gì đấy + soi thời gian)
 **
 **Vào xem nội tại để chọn nội tại và chỉ số cần mở trước khi mở
 - mont : auto mở nội tại khi ra nội tại yêu cầu và chỉ số lớn hơn hoặc bằng chỉ số set up trước 
