@@ -224,31 +224,32 @@ không cho bật nhé =))
 - akiksp1m : auto kik broly đến 1m hp sẽ giết
 - ansp : pst super còn 1 sẽ trói lại
 ** Lưu ý : Nhân vật tự chạy để hạn chế ăn đấm vào mồm, nhớ là phải mặc set pst nhé =))
+**
 **Phím tắt : 
-M : mở menu một số chức năng chính
-F : đổi khu nhanh 
-N : tự động nhặt full
-A : dịch trái
-W : dịch phải
-S : dịch xuống
-D : dịch phải
-G : Giao dịch với đối tượng đang trỏ
-B : Dùng bông tai (Ưu tiên bt c2 nếu có)
-J : Next map trái
-K : Next map giữa
-L : next map phải
-I : Next map ở những nơi có cổng thẳng đứng (VD : cổng vực cấm-núi appule lên cổng núi appule-thung lũng rasphary bên nappa)
-C : dùng capsule (ưu tiên csđb nếu có)
-Z : ẩn/hiện giao diện mod 
-T : bật tắt tđlt (tđlt chạy bằng ngọc nhé)
-E : mở list friend
-V : Chat tiếng việt
-X : Xmap muốn hủy thì ấn lại lần nữa
-O : mặc set đồ 1 hoặc 2
-H : update khuu theo thời gian thực 
-U : bật tắt ak
-0 : dịch chuyển tới nhân vật đang trỏ
-9 : Bật tắt liên kết qltk
+- M : mở menu một số chức năng chính
+- F : đổi khu nhanh 
+- N : tự động nhặt full
+- A : dịch trái
+- W : dịch phải
+- S : dịch xuống
+- D : dịch phải
+- G : Giao dịch với đối tượng đang trỏ
+- B : Dùng bông tai (Ưu tiên bt c2 nếu có)
+- J : Next map trái
+- K : Next map giữa
+- L : next map phải
+- I : Next map ở những nơi có cổng thẳng đứng (VD : cổng vực cấm-núi appule lên cổng núi appule-thung lũng rasphary bên nappa)
+- C : dùng capsule (ưu tiên csđb nếu có)
+- Z : ẩn/hiện giao diện mod 
+- T : bật tắt tđlt (tđlt chạy bằng ngọc nhé)
+- E : mở list friend
+- V : Chat tiếng việt
+- X : Xmap muốn hủy thì ấn lại lần nữa
+- O : mặc set đồ 1 hoặc 2
+- H : update khuu theo thời gian thực 
+- U : bật tắt ak
+- 0 : dịch chuyển tới nhân vật đang trỏ
+- 9 : Bật tắt liên kết qltk
 **
 **Liên kết bang hội :
 - lkpt : bật tắt liên kết
