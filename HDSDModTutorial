@@ -211,6 +211,7 @@ không cho bật nhé =))
 - do_(tên boss nào đấy ví dụ broly hoặc xên) : set boss cần dò 
 - clrz : set khu mặc định khi dò boss về 0
 - dk_X : set khu mặc định khi dò boss là X
+**
 - amd : auto đi mua đậu khi hết sạch
 - mbv_X : nhập nhanh mã bảo vệ X
 - nrd_X_Y : auto vào khu nrsd 
