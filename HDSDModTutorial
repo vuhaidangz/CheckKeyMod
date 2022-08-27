@@ -221,6 +221,7 @@ không cho bật nhé =))
 **VD: Muốn đệ hành tinh xayda chỉ số hp > 2000, mp > 1000, sd > 30 sẽ phải setup : 2000 1000 30 xd
 **
 - nhapnro : auto nhập nro ném ngọc rồng vào bà hạt mít để nó tự nhập, giữ Q để dừng
+**Có thể dùng để ép đồ nhanh 
 - akiksp : auto giết super đến khi ra super sẽ thông báo bằng âm thanh ăn đậu hay đéo gì đấy không nhớ
 - akiksp1m : auto kik broly đến 1m hp sẽ giết
 - ansp : pst super còn 1 sẽ trói lại
