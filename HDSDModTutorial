@@ -163,10 +163,12 @@ không cho bật nhé =))
 - autohsdt : sử dụng hồi sinh chỉ khi đệ chết hoặc hết ki
 **
 - minimap : bật mini map
+- tugd : tự động đồng ý và giao dịch có thể dùng khi đang treo 
+**
 - hpboss_X : setup hp ks boss
 - ksb : bật ks boss bằng đấm thường
-- ksbs5 : bật ks boss bằng skill5 (qckk hoặc laze hoặc nổ tùy hành tinh) 
-- tugd : tự động đồng ý và giao dịch có thể dùng khi đang treo 
+- ksbs5 : bật ks boss bằng skill5 (qckk hoặc laze hoặc nổ tùy hành tinh)
+- combo : auto combo tất cả các acc đang liên kết với qltk
 **
 - ngochs_X : setup số hồng ngọc được sử dụng để hồi sinh
 - ahs : auto hồi sinh với số ngọc được chỉ định là ngochs
