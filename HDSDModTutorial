@@ -67,8 +67,9 @@ tên Updated được tạo ra, trong đó sẽ có pass giải nén để giả
 **
 - showhp : list nhân vật trong map
 - go_X ( X là nhân vật trong map ) : nhảy đến chỗ nhân vật trong map (bật showhp để xem số thứ tự nhân vật)
-
+**
 - atc : bật autochat 
+- atchattg : auto chat thế giới
 **
 - abf : buff đậu theo chỉ số sư phụ 
 - bhp_X : setup hp của sư phụ để buff đậu
