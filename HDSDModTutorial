@@ -78,6 +78,7 @@ tên Updated được tạo ra, trong đó sẽ có pass giải nén để giả
 - bhpdt_X : setup hp của đệ tử để buff đậu
 - bki_X : setup ki đệ tử
 **
+- anz : auto nhặt xa
 - attnl : auto tái tạo năng lượng khi mất hp hoặc ki và tự chuyển về chiêu đấm
 - akok : up đệ hạn chế đánh kok 
 **
