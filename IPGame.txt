@@ -35,6 +35,7 @@ NROGOD:14.225.198.15:14445:0,0,0
 **
 **Ngọc Rồng Đéo Nhớ - Version : 214
 Ip :103.90.220.215:14445:0,0,0
+**
 **Ngọc Rồng Lord - Version : 214
 Lord:sv1.nrolord.com:14445:0,0,0
 **
