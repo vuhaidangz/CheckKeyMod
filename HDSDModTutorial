@@ -41,8 +41,8 @@ tên Updated được tạo ra, trong đó sẽ có pass giải nén để giả
 **
 - add : add/xóa quái hoặc item đang trỏ vào/khỏi danh sách tàn sát
 - addd : add/xóa loại quái hoặc item đang trỏ vào/khỏi danh sách
-- anhat : tự động nhặt vật phẩm
-- cnn : cài đặt chỉ nhặt ngọc
+- anhatts : tự động nhặt vật phẩm của tàn sát
+- cnnts : cài đặt chỉ nhặt ngọc của tàn sát
 - itm : lọc vật phẩm chỉ nhặt vật phẩm của mình
 - slnX : cài đặt giới hạn số lần nhặt (mặc định 7)
 - sln : xem số lần nhặt giới hạn đang đặt
@@ -123,7 +123,8 @@ wallpaper và phải là định dạng PNG nhé.
 **
 - akigui : auto kí gửi (yêu cầu: kí gửi trước 1 lần để lấy thông tin rồi mới chat lệnh)
 - anhatdt : Nhặt đồ đệ tử đánh rơi 
-- delay_X : delay tốc độ nhặt all và nhặt ngọc (X là miligiay) mặc định 1000
+- delay_X : delay tốc độ nhặt all và nhặt ngọc (X là miligiay) mặc định 500
+- anhat : auto nhặt all 
 - cnn : chỉ nhặt ngọc
 **
 - vang_X : fake vàng
