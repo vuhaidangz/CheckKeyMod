@@ -48,4 +48,7 @@ FA:portal.nrofa.com:14445:0,0,0
 **Ngọc Rồng Red - Version : 222
 NRORED:sv.nrored.me:14445:0,0,0
 **
+**Ngọc Rồng Cafe - Version : 207
+Nro SUPER:20.197.31.183:14445:0,0,0
+**
 Hết rồi chúc anh em chơi game vui vẻ|
