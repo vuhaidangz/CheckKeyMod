@@ -45,4 +45,7 @@ Ký Ức:222.255.214.144:14445:0,0,0
 **Ngọc Rồng FA - Version : 214
 FA:portal.nrofa.com:14445:0,0,0
 **
+**Ngọc Rồng Red - Version : 222
+NRORED:sv.nrored.me:14445:0,0,0
+**
 Hết rồi chúc anh em chơi game vui vẻ|
