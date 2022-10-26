@@ -60,4 +60,10 @@ SuperHero:103.90.224.172:14445:0,0,0
 **Ngọc Rồng Fuck - Version : 214
 NROFUCK:20.243.113.167:14445:0,0,0
 **
+**Ngọc Rồng Luck - Version : 222
+Admin :52.221.218.203:14445:0,0,0
+**
+**Ngọc Rồng Kesusama - Version : 207
+NRO KESU:20.214.169.8:14445:0,0,0
+**
 Hết rồi chúc anh em chơi game vui vẻ|
