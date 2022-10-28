@@ -66,4 +66,7 @@ Admin :52.221.218.203:14445:0,0,0
 **Ngọc Rồng Kesusama - Version : 207
 NRO KESU:20.214.169.8:14445:0,0,0
 **
+**Ngọc Rồng Kaio - Version : 214
+Kaio:20.40.96.21:14445:0,0,0
+**
 Hết rồi chúc anh em chơi game vui vẻ|
