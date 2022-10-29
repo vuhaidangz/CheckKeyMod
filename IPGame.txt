@@ -69,4 +69,7 @@ NRO KESU:20.214.169.8:14445:0,0,0
 **Ngọc Rồng Kaio - Version : 214
 Kaio:20.40.96.21:14445:0,0,0
 **
+**Ngọc Rồng Santa - Version : 216
+SANTA 01:103.90.224.43:14445:0,0,0
+**
 Hết rồi chúc anh em chơi game vui vẻ|
