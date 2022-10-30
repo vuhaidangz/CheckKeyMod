@@ -236,6 +236,10 @@ không cho bật nhé =))
 - daothuong : auto cho khỉ ăn đào thường bên nro rose
 - daochin : auto cho khỉ ăn đào chín
 **
+- aghsm : Auto Mở Giới Hạn Sức Mạnh (Mặc Định Mở Sư Phụ)
+- ghsmdt : chuyển đối tượng auto mở giới hạn sang đệ tử
+- gdnew : dùng trong sv tea để gd từ bản này (v214) với bản khác cao hơn (v222)
+**
 **Phím tắt : 
 - M : mở menu một số chức năng chính
 - F : đổi khu nhanh 
@@ -262,6 +266,8 @@ không cho bật nhé =))
 - 0 : dịch chuyển tới nhân vật đang trỏ
 - 9 : Bật tắt liên kết qltk
 - Shift + D : đóng băng skill hiện tại
+- Shift + F : focus nhanh vào boss
+- Shift + C : combo dàn acc nhanh (td sẽ dctt kame, xd bom, nm laze)
 **
 **Liên kết bang hội :
 - lkpt : bật tắt liên kết
