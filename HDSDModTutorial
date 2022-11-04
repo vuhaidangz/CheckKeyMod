@@ -197,6 +197,7 @@ không cho bật nhé =))
 - lkqltk : liên kết với quản lí tài khoản để sử dụng chức năng
 - dapdo : auto đập đồ bật lên rồi vào pha lê hóa chọn đồ sau đó bấm vào đồ chọn số sao cần đập là xong
 - nhanvang : bat tat auto nhan vang khi dapdo
+- npcvang_X : set up npc sẽ nhận vàng nếu không set up mặc định là bay về nhà nhận (_ là dấu cách, X là id npc)
 **Auto bán thỏi vàng khi hết vàng nên cân nhắc trước khi dùng. Giữ Q để reset đồ và add lại đồ
 **
 - goirong_X : gọi rồng X sao
