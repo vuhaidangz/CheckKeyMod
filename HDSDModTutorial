@@ -241,6 +241,9 @@ không cho bật nhé =))
 - ghsmdt : chuyển đối tượng auto mở giới hạn sang đệ tử
 - gdnew : dùng trong sv tea để gd từ bản này (v214) với bản khác cao hơn (v222)
 **
+- ttsp : hiện thông tin sư phụ
+- ttdt : hiện thông tin đệ tử
+**
 **Phím tắt : 
 - M : mở menu một số chức năng chính
 - F : đổi khu nhanh 
