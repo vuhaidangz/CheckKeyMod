@@ -81,4 +81,10 @@ Inzi 1:222.255.214.22:14445:0,0,0
 **Ngọc Rồng Star - Version : 219
 Star:sv.nrostar.com:14445:0,0,0
 **
+**Ngọc Rồng Kiss - Version : 214
+Lord:sv.nrokiss.com:14445:0,0,0
+**
+**Ngọc Rồng Kuro - Version : 220
+NROKURO:103.56.160.122:14445:0,0,0
+**
 Hết rồi chúc anh em chơi game vui vẻ|
