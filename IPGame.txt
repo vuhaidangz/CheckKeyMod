@@ -87,4 +87,7 @@ Lord:sv.nrokiss.com:14445:0,0,0
 **Ngọc Rồng Kuro - Version : 220
 NROKURO:103.56.160.122:14445:0,0,0
 **
+**Ngọc Rồng Sun - Version : 213
+Sun:sv.nrosun.com:14445:0,0,0
+**
 Hết rồi chúc anh em chơi game vui vẻ|
