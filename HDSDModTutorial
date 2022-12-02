@@ -249,6 +249,8 @@ không cho bật nhé =))
 ** Lưu ý khi bật 1 trong 2 chức năng trên phải bật cả tàn sát (ts) vì đây chỉ là thêm tính năng vào tàn sát vốn có
 - tsnguoi : tàn sát người trong map
 **
+- music : bật/tắt chạy nhạc trong game
+**Đưa 1 file âm nhạc bất kì vào thư mục Music rồi đổi tên thành music định dạng mp3 (music.mp3) rồi vào game chat là ok
 **Phím tắt : 
 - M : mở menu một số chức năng chính
 - F : đổi khu nhanh 
