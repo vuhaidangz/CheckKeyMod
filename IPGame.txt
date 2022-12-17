@@ -89,10 +89,13 @@ NROKURO:103.56.160.122:14445:0,0,0
 **
 **Ngọc Rồng Sun - Version : 213
 Sun:sv.nrosun.com:14445:0,0,0
+**
 **Ngọc Rồng Golden - Version : 214
 Golden:103.75.184.188:14445:0,0,0
+**
 **Ngọc Rồng Wind - Version : 206
 Wind:sv.nrowind.com:14445:0,0,0
+**
 **Ngọc Rồng Gecko - Version : 214
 Girlkun75-1:sv1.nrogecko.com:14445:0,0,0
 **
