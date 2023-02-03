@@ -6,9 +6,6 @@
 **Ngọc Rồng Online Real (Teamobi) - Version : 214
 Vũ trụ 1:dragon1.teamobi.com:14445:0,Vũ trụ 2:dragon2.teamobi.com:14445:0,Vũ trụ 3:dragon3.teamobi.com:14445:0,Vũ trụ 4:dragon4.teamobi.com:14445:0,Vũ trụ 5:dragon5.teamobi.com:14445:0,Vũ trụ 6:dragon6.teamobi.com:14445:0,Vũ trụ 7:dragon7.teamobi.com:14445:0,Võ đài liên vũ trụ:dragonwar.teamobi.com:20000:0,Universe 1:dragon.indonaga.com:14445:1,0,6
 **
-**Đéo nhớ server - Version : 204
-NRO:14.225.198.190:14445:0,0,0
-**
 **Ngọc Rồng 7NRO - Version : 217
 7NRO:103.161.176.80:14445:0,0,0
 **
@@ -39,23 +36,14 @@ Mix:server.nromix.com:14445:0,0,0
 **Ngọc Rồng God - Version : 214
 NROGOD:172.65.194.168:1875:0,0,0
 **
-**Ngọc Rồng Đéo Nhớ - Version : 214
-Ip :103.90.220.215:14445:0,0,0
-**
 **Ngọc Rồng Lord - Version : 214
 Lord:sv1.nrolord.com:14445:0,0,0
-**
-**Ngọc Rồng Ký Ức - Version : 214
-Ký Ức:222.255.214.144:14445:0,0,0
 **
 **Ngọc Rồng FA - Version : 214
 FA:portal.nrofa.com:14445:0,0,0
 **
 **Ngọc Rồng Red - Version : 222
 NRORED:sv.nrored.me:14445:0,0,0
-**
-**Ngọc Rồng Cafe - Version : 207
-Nro SUPER:20.197.31.183:14445:0,0,0
 **
 **Ngọc Rồng Super Hero - Version : 220
 SuperHero:103.90.224.172:14445:0,0,0
@@ -101,5 +89,8 @@ Girlkun75-1:sv1.nrogecko.com:14445:0,0,0
 **
 **Ngọc Rồng Hades - Version : 214
 NROGOD:172.65.194.168:1875:0,0,0
+**
+**Ngọc Rồng Free - Version : 205
+Universe 1:sv.nrofree.com:14445:0,0,0
 **
 Hết rồi chúc anh em chơi game vui vẻ|
