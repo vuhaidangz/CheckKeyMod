@@ -99,4 +99,7 @@ Wind:sv.nrowind.com:14445:0,0,0
 **Ngọc Rồng Gecko - Version : 214
 Girlkun75-1:sv1.nrogecko.com:14445:0,0,0
 **
+**Ngọc Rồng Hades - Version : 214
+NROGOD:172.65.194.168:1875:0,0,0
+**
 Hết rồi chúc anh em chơi game vui vẻ|
