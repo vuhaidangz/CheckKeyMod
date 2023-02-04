@@ -88,7 +88,7 @@ Wind:sv.nrowind.com:14445:0,0,0
 Girlkun75-1:sv1.nrogecko.com:14445:0,0,0
 **
 **Ngọc Rồng Hades - Version : 214
-NROGOD:172.65.194.168:1875:0,0,0
+Hades-1:sv.nrohades.com:14445:0,0,0
 **
 **Ngọc Rồng Free - Version : 215
 Universe 1:sv.nrofree.com:14445:0,0,0
