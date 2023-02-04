@@ -199,6 +199,7 @@ không cho bật nhé =))
 - avang_X : auto bán/nhận vàng khi số vàng còn ít hơn X
 - nhanvang : bat tat auto nhan vang khi dapdo
 - npcvang_X : set up npc sẽ nhận vàng nếu không set up mặc định là bay về nhà nhận (_ là dấu cách, X là id npc)
+- banitem_X : bán item có id X khi hết vàng và không bật nhận vàng
 **Auto bán thỏi vàng khi hết vàng nên cân nhắc trước khi dùng. Giữ Q để reset đồ và add lại đồ
 **
 - goirong_X : gọi rồng X sao
