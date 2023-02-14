@@ -93,4 +93,8 @@ Hades-1:sv.nrohades.com:14445:0,0,0
 **Ngọc Rồng Free - Version : 215
 Universe 1:sv.nrofree.com:14445:0,0,0
 **
+**Ngọc Rồng Real - Version : 222
+Admin:103.90.225.23:16666:0,0,0
+**
+**
 Hết rồi chúc anh em chơi game vui vẻ|
