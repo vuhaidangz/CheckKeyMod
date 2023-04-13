@@ -18,17 +18,8 @@ NROLOVE LOCAL:local.nrolove.com:14445:0,0,0
 **Ngọc Rồng Super - Version 207
 Nro SUPER:103.90.224.147:14445:0,0,0
 **
-**Ngọc Rồng Kakarot - Version : 203
-Vũ Trụ Kakarot:103.90.224.247:14445:0,0,0
-**
 **Ngọc Rồng Rose - Version : 214
 Rose:103.90.224.45:14445:0,0,0
-**
-**Ngọc Rồng Funny - Version : 204
-NROFun:103.200.22.183:14445:0,0,0
-**
-**Ngọc Rồng Hero - Version : 215
-Hero:183.81.33.159:14445:0,0,0
 **
 **Ngọc Rồng Mix - Version : 206
 Mix:server.nromix.com:14445:0,0,0
@@ -39,44 +30,8 @@ NROGOD:172.65.194.168:1875:0,0,0
 **Ngọc Rồng Lord - Version : 214
 Lord:sv1.nrolord.com:14445:0,0,0
 **
-**Ngọc Rồng FA - Version : 214
-FA:portal.nrofa.com:14445:0,0,0
-**
 **Ngọc Rồng Red - Version : 222
 NRORED:sv.nrored.me:14445:0,0,0
-**
-**Ngọc Rồng Super Hero - Version : 220
-SuperHero:103.90.224.172:14445:0,0,0
-**
-**Ngọc Rồng Fuck - Version : 214
-NROFUCK:20.243.113.167:14445:0,0,0
-**
-**Ngọc Rồng Luck - Version : 222
-Admin :52.221.218.203:14445:0,0,0
-**
-**Ngọc Rồng Kesusama - Version : 207
-NRO KESU:20.214.169.8:14445:0,0,0
-**
-**Ngọc Rồng Kaio - Version : 214
-Kaio:20.40.96.21:14445:0,0,0
-**
-**Ngọc Rồng Santa - Version : 216
-SANTA 01:103.90.224.43:14445:0,0,0
-**
-**Ngọc Rồng Inzi - Version : 220
-Inzi 1:222.255.214.22:14445:0,0,0
-**
-**Ngọc Rồng Star - Version : 219
-Star:sv.nrostar.com:14445:0,0,0
-**
-**Ngọc Rồng Kiss - Version : 214
-Lord:sv.nrokiss.com:14445:0,0,0
-**
-**Ngọc Rồng Kuro - Version : 220
-NROKURO:103.56.160.122:14445:0,0,0
-**
-**Ngọc Rồng Sun - Version : 213
-Sun:sv.nrosun.com:14445:0,0,0
 **
 **Ngọc Rồng Golden - Version : 214
 Golden:103.75.184.188:14445:0,0,0
@@ -98,5 +53,8 @@ Admin:103.90.225.23:16666:0,0,0
 **
 **Ngọc Rồng Mint - Version : 221
 NROMINT:sv.nromint.com:14445:0,0,0
+**
+**Ngọc Rồng Private - Version : 230
+Private:14.225.217.50:14445:0,0,0
 **
 Hết rồi chúc anh em chơi game vui vẻ|
